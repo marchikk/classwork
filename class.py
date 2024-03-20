@@ -1,6 +1,6 @@
 
 class DogSpike:
-    name= 'Spike'
+    name = 'Spike'
     def __init__(self):
         self.is_walked = False
     def walk(self):
